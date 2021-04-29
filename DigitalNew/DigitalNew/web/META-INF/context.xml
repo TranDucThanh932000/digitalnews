@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Context path="/DigitalNew">
+    <Environment name="serverName" type="java.lang.String" value="localhost"/>
+    <Environment name="portNumber" type="java.lang.String" value="1433"/>
+    <Environment name="username" type="java.lang.String" value="sa"/>
+    <Environment name="password" type="java.lang.String" value="123"/>
+    <Environment name="dbName" type="java.lang.String" value="DigitalNew"/>
+    <Environment name="imageFolder" type="java.lang.String" value="image/"/>
+    <Environment name="HomePageServlet" type="java.lang.String" value="/HomePageServlet"/>
+    <Environment name="SearchServlet" type="java.lang.String" value="/SearchServlet"/>
+</Context>

@@ -1,0 +1,23 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 22, 2021, 5:21:05 PM
+    Author     : admin2
+*/
+/*center website*/
+.center{
+    background-image: url("../image/bg.jpg");
+    width: 886px;
+    height: auto;
+    margin: 0px auto;
+}
+body{
+    margin: 0px;
+}
+/* delete underline of tag a*/
+a{
+    text-decoration: none;
+}

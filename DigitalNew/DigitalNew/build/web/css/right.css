@@ -1,0 +1,47 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 23, 2021, 3:25:44 PM
+    Author     : admin2
+*/
+/*set width right size*/
+.right{
+    width: 185px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+/*make border left*/
+.border_dotted{
+    margin-left: 20px;
+    border-left: dashed 1.5px;
+    color: #e2e2e2;
+}
+/*style for button Go*/
+.btnGo{
+    color:#929c96;
+    border-style: none;
+    background-color: white;
+}
+/*set style for input search*/
+.inputSearch{
+    width: 140px;
+    border: dashed 1.5px;
+    color: #929c96;
+}
+/*set space between each line*/
+.list_arts{
+    line-height: 30px;
+    margin-left: -1px;
+}
+/*set color and weight for tag a*/
+.list_arts a{
+    color:#9ca6a1;
+    font-size: 11px;
+    text-decoration: underline;
+}
+.list_arts td{
+    padding: 0px;
+}
